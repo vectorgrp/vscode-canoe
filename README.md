@@ -1,7 +1,4 @@
-# Vector CANoe for Visual Studio Code
-
-This repository hosts public resources, such as the images shown in the README, of the **Vector CANoe** extension for Visual Studio Code (`vectorgroup.canoe`).
-
-The source code of the extension is not published here.
-
-For questions and problems, contact [Vector support](https://support.vector.com/).
+# Visual Studio Code extension - Vector CANoe
+This repository is a placeholder for public resources used in the `Vector CANoe` Visual Studio Code extension. 
+The extension itself is not open source. 
+This repository is only intended for storing public resources referenced in the marketplace page of the extension. 
